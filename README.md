@@ -7,13 +7,13 @@ The course is structured with an introduction, course set-up guide, Spark DataFr
 
 The repository is intended to be used as a resource for students who want to learn about Python and Spark for Big Data, but it can also be used by instructors as a supplement to their course materials. The course notebooks are organized in a logical order, making it easy for learners to follow the material and work through the exercises at their own pace.
 
-## Preparing the environment
+### Preparing the environment
 **Note**: I have tested the codes on __Linux__. It can surely be run on Windows and Mac with some little changes.
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/iamirmasoud/pyspark_tutorials.git
-cd pyspark_tutorials
+git clone https://github.com/iamirmasoud/pyspark_basics.git
+cd pyspark_basics
 ```
 
 2. Create (and activate) a new environment, named `spark_env` with Python 3.7. If prompted to proceed with the install `(Proceed [y]/n)` type y.
@@ -23,7 +23,7 @@ cd pyspark_tutorials
 	source activate spark_env
 	```
 	
-	At this point your command line should look something like: `(spark_env) <User>:pyspark_tutorials <user>$`. The `(spark_env)` indicates that your environment has been activated, and you can proceed with further package installations.
+	At this point your command line should look something like: `(spark_env) <User>:pyspark_basics <user>$`. The `(spark_env)` indicates that your environment has been activated, and you can proceed with further package installations.
 
 3. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python3.7+ and PySpark. You can install  dependencies using:
 ```
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 4. Navigate back to the repo. (Also, your source environment should still be activated at this point.)
 ```shell
-cd pyspark_tutorials
+cd pyspark_basics
 ```
 
 5. Open the directory of notebooks, using the below command. You'll see all files appear in your local environment; open the first notebook and follow the instructions.
