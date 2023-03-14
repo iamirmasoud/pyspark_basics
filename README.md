@@ -1,7 +1,13 @@
 # Python-and-Spark-for-Big-Data
-Course Notebooks for Python and Spark for Big Data
 
-Course Outline:
+## About this Repo:
+This repository contains course notebooks for *Python and Spark for Big Data*. The course covers an extensive range of topics, including Spark, RDDs, Spark 2.0, Unix command line basics, Jupyter Notebook, Spark DataFrames, machine learning, linear regression, logistic regression, tree methods, clustering, recommender systems, natural language processing, and Spark Streaming.
+
+The course is structured with an introduction, course set-up guide, Spark DataFrames section, machine learning, linear regression, logistic regression, tree methods, clustering, recommender systems, natural language processing, and Spark Streaming. Each section contains comprehensive course materials, including project exercises, solutions, and code-alongs.
+
+The repository is intended to be used as a resource for students who want to learn about Python and Spark for Big Data, but it can also be used by instructors as a supplement to their course materials. The course notebooks are organized in a logical order, making it easy for learners to follow the material and work through the exercises at their own pace.
+
+## Course Outline:
 
 * Course Introduction
     * Promo/Intro Video
